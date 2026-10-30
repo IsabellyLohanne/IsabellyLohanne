@@ -124,16 +124,7 @@ flowchart LR
 ## 📊 Atividade no GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IsabellyLohanne&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellyLohanne&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=IsabellyLohanne&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsabellyLohanne&theme=tokyo-night&hide_border=true" alt="Gráfico de atividade" />
+  <img src="https://ghchart.rshah.org/0A66C2/IsabellyLohanne" alt="Contribuições no GitHub" />
 </p>
 
 ---
